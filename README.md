@@ -18,16 +18,6 @@ http://127.0.0.1:3000/api/v1/greetings
 
 ## GitHub Project
 
-### Links
-
-#### Front_end 
-
-![all-devices-black (7)](https://user-images.githubusercontent.com/95297251/193011566-ec2ffa84-7b1e-458f-8c46-8cf7eba574df.png)
-
-#### Back_end
-
-![all-devices-white (3)](https://user-images.githubusercontent.com/95297251/193010139-c3abd6dd-6ee5-4ddd-b9b7-16395d5a0c0f.png)
-
 ## Built With 🛠️
 
 - [x] Programming Language: [Ruby](https://www.ruby-lang.org/en/)
