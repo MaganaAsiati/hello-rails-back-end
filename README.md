@@ -1,10 +1,10 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# 
+# "Hello world" 
 
-> This application is based booking an appointment with prominent Doctors around the world, you need just to login then book a reservation, after that you can log out or check all your reservations.
-
+> Description
+ This exercise is going to have you create a React front-end with a Rails back-end and connect them to display a random message.
 
 ## API Documentation
 Check out the API documentation
