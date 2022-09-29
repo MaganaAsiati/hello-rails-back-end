@@ -12,9 +12,9 @@ Check out the API documentation
 http://127.0.0.1:3000/api/v1/greetings
 ## Project Documentation 📄
 
-- [x] Here is the to the back end  [link](https://github.com/MaganaAsiati/hello-rails-back-end/pull/1)👈
+- [x] Here is the to the back end  [link](https://github.com/MaganaAsiati/hello-rails-back-end)👈
 
-- [x] Here is the to the Front end  [link](https://github.com/MaganaAsiati/hello-rails-back-end/pull/1)👈
+- [x] Here is the to the Front end  [link](https://github.com/MaganaAsiati/hello-react-front-end)👈
 
 ## GitHub Project
 
