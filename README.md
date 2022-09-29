@@ -1,18 +1,20 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Meet Doctor
+# 
 
 > This application is based booking an appointment with prominent Doctors around the world, you need just to login then book a reservation, after that you can log out or check all your reservations.
 
 
 ## API Documentation
-Check out the [API documentation](https://hidden-citadel-49495.herokuapp.com/api-docs/index.html)
+Check out the API documentation
 
+http://127.0.0.1:3000/api/v1/greetings
 ## Project Documentation 📄
 
-- [x] Here is the link: http://127.0.0.1:3000/api/v1/greetings for getting  all greetings👈
-- Click to the button to get the next name 
+- [x] Here is the to the back end  [link](https://github.com/MaganaAsiati/hello-rails-back-end/pull/1)👈
+
+- [x] Here is the to the Front end  [link](https://github.com/MaganaAsiati/hello-rails-back-end/pull/1)👈
 
 ## GitHub Project
 
